@@ -106,11 +106,12 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 <td>IDE</td>
 <td>
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
+  <!--
 ![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
 ![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-black?style=flat&logo=Spring&logoColor=green)&nbsp;
 ![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green)&nbsp;
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
 ![XCode](https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode)&nbsp;
 ![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white)&nbsp;
@@ -119,6 +120,7 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 ![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
 
 </td>
+-->
 </tr>
 
 <tr>
@@ -128,11 +130,13 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 ![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+  <!--
 ![GitLab](https://img.shields.io/badge/-Git%20Lab-black?style=flat&logo=gitlab)&nbsp;
 ![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket)&nbsp;
 ![SourceTree](https://img.shields.io/badge/-SourceTree-black?style=flat&logo=sourcetree&logoColor=blue)&nbsp;
 
 </td>
+-->
 </tr>
 
 <tr>
@@ -142,29 +146,30 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
  <td>
 
 ![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
+   <!--
 ![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
 ![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
 [![Google Play](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=4624325070796601602)&nbsp;
 
 </td>
+-->
 </tr>
 
 </tbody>
 </table>
 
  
-![Saulo GitHub stats](https://github-readme-stats.vercel.app/api?username=SauloMMota&show_icons=true&theme=vue)
+![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoKRTZ&show_icons=true&theme=vue)
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=oliota&langs_count=50)](https://github.com/SauloMMota/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoKRTZ&langs_count=50)](https://github.com/SauloMMota/github-readme-stats)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=SauloMMota&repo=SauloMMota.github.io)](https://github.com/SauloMMota/SauloMMota.github.io)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoKRTZ&repo=SauloMMota.github.io)](https://github.com/SauloMMota/SauloMMota.github.io)
 
 
-<img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 
  
 
