@@ -161,11 +161,10 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 </table>
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoKRTZ&langs_count=50)](https://github.com/SauloMMota/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoKRTZ&langs_count=50)](https://github.com/LucianoKRTZ/github-readme-stats)
 
 
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=LucianoKRTZ&repo=SauloMMota.github.io)](https://github.com/SauloMMota/SauloMMota.github.io)
 
 
 
