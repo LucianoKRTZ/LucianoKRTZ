@@ -118,9 +118,9 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 ![PyCharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=Pycharm&logoColor=blue)&nbsp;
 ![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
 ![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
-
-</td>
 -->
+</td>
+
 </tr>
 
 <tr>
