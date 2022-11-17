@@ -1,6 +1,3 @@
-### Hi there 👋 I'm Luciano Kratzer
-
-**LucianoKRTZ/LucianoKRTZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ![Visitas em meu perfil](https://komarev.com/ghpvc/?username=LucianoKRTZ&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
@@ -11,7 +8,7 @@
 ### About me!
 <i> 📚 My name is Luciano José Kratzer, I'm from Brasil, SC (Brazil), and I currently live in Blumenau, SC (Brazil).
 
-I'm passionate about technology and recently moved from public safety to development. The profile will be updated as my evolution and projects under construction.
+I am passionate about technology and recently started programming. The profile will be updated according to my evolution and projects under construction.
 
 <img src="./coding.gif">
 
