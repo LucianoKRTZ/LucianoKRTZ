@@ -12,12 +12,6 @@ I am passionate about technology and recently started programming. The profile w
 
 <img src="./coding.gif">
 
-<p align="left">
-  <img
-    src="https://komarev.com/ghpvc/?username=Ciro-Ugalde"
-    alt="gargakshit" </p>
-
-  <br> 
 
 ---
 
