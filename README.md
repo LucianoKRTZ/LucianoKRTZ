@@ -70,9 +70,9 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 </td>
 
 </tr>
-
-<tr>
 <!--
+<tr>
+
 <td>Mobile</td>
 <td>
 
@@ -98,14 +98,15 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 ![Postgres](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
 
 </td>
--->
+
   
 </tr>
-
+-->
 <tr>
 
 <td>IDE</td>
 <td>
+  
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
   <!--
@@ -158,9 +159,6 @@ console.log([ "🐣","🥚", "🐔", "🐥"].sort());
 
 </tbody>
 </table>
-
- 
-![Luciano GitHub stats](https://github-readme-stats.vercel.app/api?username=LucianoKRTZ&show_icons=true&theme=vue)
 
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoKRTZ&langs_count=50)](https://github.com/SauloMMota/github-readme-stats)
