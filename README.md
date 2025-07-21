@@ -38,7 +38,7 @@ Veja algumas das minhas conquistas e marcos no GitHub!
 
 Curioso para saber quantas pessoas visitaram meu perfil?
 
-![Visitas ao Perfil](https://profile-counter.glitch.me/LucianoKRTZ/count.svg)
+![Visitas em meu perfil](https://komarev.com/ghpvc/?username=oliota&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
 
 ---
 
