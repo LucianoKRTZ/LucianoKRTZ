@@ -1,173 +1,49 @@
-
-![Visitas em meu perfil](https://komarev.com/ghpvc/?username=LucianoKRTZ&color=ff0000&label=Welcome+to+my+profile+you+are+visitor+nº:)
-
-# Hi there 🖖
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=%23f00&width=500&height=80&size=20&multiline=true&lines=Hi,+I'm+Luciano+Kratzer)](https://git.io/typing-svg)
-
-### About me!
-<i> 📚 My name is Luciano José Kratzer, I'm from Blumenau, SC (Brazil).
-
-I am passionate about technology and recently started programming. The profile will be updated according to my evolution and projects under construction.
-
-<img src="./coding.gif">
-
+# Olá, sou o **Luciano J. K.** 👋
 
 ---
 
+### Um pouco sobre mim:
 
-``` javascript
-//Fun fact: I once answered the world’s oldest question with a single line of JavaScript
-// Which came first: the chicken or the egg?
-console.log([ "🐣","🥚", "🐔", "🐥"].sort());
+Sou um programador apaixonado por tecnologia e desenvolvimento de software! Gosto de explorar novas ferramentas, resolver problemas complexos e construir soluções criativas. Minha paixão me impulsiona a aprender e crescer constantemente no mundo da programação.
 
-//spoiler 🐔
+Atualmente estou focado em **Python** e **Java**.
 
-```
-  
- 
-## 🎓 knowledge
+---
 
-<table > 
-<tbody>
-<tr>
-<td>Backend</td>
-<td>
+### Minhas Estatísticas no GitHub:
 
-![Java](https://img.shields.io/badge/-Java-black?style=flat&logo=Java)&nbsp;
-![Python](https://img.shields.io/badge/-Python-black?style=flat&logo=python)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
-  <!--
-![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
-![C](https://img.shields.io/badge/-C-black?style=flat&logo=C&logoColor=white)&nbsp;
-![C#](https://img.shields.io/badge/-C%23-black?style=flat&logo=C+sharp&logoColor=white)&nbsp;
+Confira um resumo da minha jornada no GitHub!
 
--->
-</tr>
+![Minhas Estatísticas GitHub](https://github-readme-stats.vercel.app/api?username=LucianoKRTZ&show_icons=true&theme=dark&include_all_commits=true&count_private=true)
 
-<tr>
-<td>Frontend</td>
-<td>
+---
 
-![HTML](https://img.shields.io/badge/-HTML-black?style=flat&logo=HTML5)&nbsp;
-![CSS](https://img.shields.io/badge/-CSS-black?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-black?style=flat&logo=bootstrap)&nbsp;
-![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat&logo=javascript)&nbsp;
-![Node.js](https://img.shields.io/badge/-Node.js-black?style=flat&logo=node.js)&nbsp;
-![Typescript](https://img.shields.io/badge/-Typescript-black?style=flat&logo=typescript)&nbsp;
-![Npm](https://img.shields.io/badge/-Npm-black?style=flat&logo=npm)&nbsp;
-![Jquery](https://img.shields.io/badge/-Jquery-black?style=flat&logo=jquery)&nbsp;
-![Angular](https://img.shields.io/badge/-Angular-black?style=flat&logo=angular&logoColor=red)&nbsp;
-![React](https://img.shields.io/badge/-React-black?style=flat&logo=react)&nbsp;
-  <!--
-![Sass](https://img.shields.io/badge/-Sass-black?style=flat&logo=sass)&nbsp;
-![Markdown](https://img.shields.io/badge/-Markdown-black?style=flat&logo=markdown)&nbsp;
-![Materialize](https://img.shields.io/badge/-Materialize-black?style=flat&logo=Material-design&logoColor=red)&nbsp;
-![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat&logo=vue.js)&nbsp;
--->
+### Minhas Linguagens Mais Usadas:
 
+Essas são as linguagens que mais utilizo em meus projetos públicos.
 
-</td>
+![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoKRTZ&layout=compact&theme=dark&hide_title=true)
 
-</tr>
-<!--
-<tr>
+---
 
-<td>Mobile</td>
-<td>
+### Troféus de Conquistas:
 
-![Android](https://img.shields.io/badge/-Android%20java-black?style=flat&logo=Android&logoColor=green)&nbsp;
-![Kotlin](https://img.shields.io/badge/-Android%20kotlin-black?style=flat&logo=kotlin&logoColor=green)&nbsp;
-![ReactNative](https://img.shields.io/badge/-React%20Native-black?style=flat&logo=react)&nbsp;
-![Swift](https://img.shields.io/badge/-IOS.Swift-black?style=flat&logo=Swift)&nbsp;
+Veja algumas das minhas conquistas e marcos no GitHub!
 
-</td>
+[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=LucianoKRTZ&theme=dark&no-frame=true&no-bg=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-</tr>
+---
 
-<tr>
+### Visitas ao Meu Perfil:
 
-<td>Database</td>
-<td>
+Curioso para saber quantas pessoas visitaram meu perfil?
 
-![MySql](https://img.shields.io/badge/-MySql-black?style=flat&logo=mysql)&nbsp;
-![Oracle](https://img.shields.io/badge/-Oracle-black?style=flat&logo=oracle&logoColor=red)&nbsp;
-![Sqlite](https://img.shields.io/badge/-Sqlite-black?style=flat&logo=sqlite)&nbsp;
-![SqlServer](https://img.shields.io/badge/-SqlServer-black?style=flat&logo=microsoft-Sql-Server)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
-![Postgres](https://img.shields.io/badge/-PostgreSql-black?style=flat&logo=postgresql)&nbsp;
+![Visitas ao Perfil](https://profile-counter.glitch.me/LucianoKRTZ/count.svg)
 
-</td>
+---
 
-  
-</tr>
--->
-<tr>
+### Conecte-se Comigo:
 
-<td>IDE</td>
-<td>
-  
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-black?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
-![Eclipse](https://img.shields.io/badge/-Eclipse-black?style=flat&logo=eclipse-ide&logoColor=orange)
-![PyCharm](https://img.shields.io/badge/-Pycharm-black?style=flat&logo=Pycharm&logoColor=blue)&nbsp;
-
-  <!--
-![Spring Tool Suite](https://img.shields.io/badge/-Spring%20Tool%20Suite-black?style=flat&logo=Spring&logoColor=green)&nbsp;
-![Android Studio](https://img.shields.io/badge/-Android%20Studio-black?style=flat&logo=Android+Studio&logoColor=green)&nbsp;
-![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-black?style=flat&logo=visual-studio&logoColor=purple)&nbsp;
-![XCode](https://img.shields.io/badge/-XCode-black?style=flat&logo=xcode)&nbsp;
-![Intelij](https://img.shields.io/badge/-Intelij-black?style=flat&logo=Jetbrains&logoColor=white)&nbsp;
-![VisualG](https://img.shields.io/badge/-VisualG-black?style=flat&logo=v&logoColor=a66321)&nbsp;
-![Repl.it](https://img.shields.io/badge/-Repl.it-black?style=flat&logo=replit)&nbsp;
--->
-</td>
-
-</tr>
-
-<tr>
-
-<td>Version</td>
-<td>
-
-![Git](https://img.shields.io/badge/-Git-black?style=flat&logo=git)&nbsp;
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-  <!--
-![GitLab](https://img.shields.io/badge/-Git%20Lab-black?style=flat&logo=gitlab)&nbsp;
-![Bitbucket](https://img.shields.io/badge/-Bitbucket-black?style=flat&logo=bitbucket)&nbsp;
-![SourceTree](https://img.shields.io/badge/-SourceTree-black?style=flat&logo=sourcetree&logoColor=blue)&nbsp;
-
-</td>
--->
-</tr>
-
-<tr>
-
-<td>Deploy</td>
-
- <td>
-
-![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat&logo=github)&nbsp;
-   <!--
-![Heroku](https://img.shields.io/badge/-Heroku-black?style=flat&logo=heroku)&nbsp;
-![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat&logo=firebase)&nbsp;
-![Firebase](https://img.shields.io/badge/-Google%20domains-black?style=flat&logo=google-domains)&nbsp;
-[![Google Play](https://img.shields.io/badge/-Google%20play-black?style=flat&logo=google-play)](https://play.google.com/store/apps/dev?id=4624325070796601602)&nbsp;
-
-</td>
--->
-</tr>
-
-</tbody>
-</table>
-
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LucianoKRTZ&langs_count=50)](https://github.com/LucianoKRTZ/github-readme-stats)
-
-
-
-
-
-
- 
-
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luciano-jose-kratzer)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lucianokratzer@hotmail.com)
+---
