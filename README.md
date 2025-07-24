@@ -1,4 +1,4 @@
-# Olá, sou o **Luciano J. K.** 👋
+# Olá, sou o **Luciano J. Kratzer** 👋
 
 ---
 
